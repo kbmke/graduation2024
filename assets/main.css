@@ -100,7 +100,9 @@ body {
 /* ABOVE EFFECTS BODY ELEMENTS */
 
 /* ID FORMATTING*/
-
+#classOf24pic {
+  margin: 0 auto;
+}
 /* CLASS FORMATTING */
 .navbar {
   list-style: none;
